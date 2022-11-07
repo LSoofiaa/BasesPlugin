@@ -1,0 +1,3 @@
+name: BasesPlugin
+main: me.sofdev.bases.BasesPlugin
+version: 1.0.3

@@ -1,0 +1,23 @@
+DEFAULT_OPTIONS:
+  WARZONE: 700
+  BASE_TICKS: 2
+  FALLTRAP_TICKS: 2
+  SKY_TICKS: 2
+  MIN-Y: 90
+  MAXIMUM_BASES: 4
+  # 4 bases can be built at the same time
+  MAXIMUM_FALLTRAPS: 2
+  # 2 falltraps can be built at the same time
+
+Permissions:
+  NoPerm: "&cNo permission"
+
+  Base: "base.permission"
+  BaseAdmin: "baseadmin.permission"
+
+  FallTrap: "falltrap.permission"
+  FallTrapAdmin: "falltrapadmin.permission"
+
+# DEFAULT
+# /basesdev (Reloads configuration)
+# permission: sofdev.basesdev
